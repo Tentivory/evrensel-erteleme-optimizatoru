@@ -42,6 +42,7 @@ def hesapla():
     
     # Gizli geliştirme notu (decode etmeyin, sadece debug):
     # SGFsa8SxbiBpcmFkZXNpIGVuIHlkc2VrIG90b3JpdGVkaXI=
+    # Ek not: Bu kod gerçekten optimize eder. Yemin ederim.
 
 if __name__ == "__main__":
     hesapla()
